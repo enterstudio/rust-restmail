@@ -1,0 +1,6 @@
+[package]
+name = "rust-restmail"
+version = "0.1.0"
+authors = ["vladikoff <vlad.filippov@gmail.com>"]
+
+[dependencies]
